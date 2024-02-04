@@ -1,0 +1,7 @@
+C:\Users\tural\Desktop\Extansion\Extansion1\bin\Debug\Extansion1.exe.config
+C:\Users\tural\Desktop\Extansion\Extansion1\bin\Debug\Extansion1.exe
+C:\Users\tural\Desktop\Extansion\Extansion1\bin\Debug\Extansion1.pdb
+C:\Users\tural\Desktop\Extansion\Extansion1\obj\Debug\Extansion1.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\Extansion\Extansion1\obj\Debug\Extansion1.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\Extansion\Extansion1\obj\Debug\Extansion1.exe
+C:\Users\tural\Desktop\Extansion\Extansion1\obj\Debug\Extansion1.pdb
